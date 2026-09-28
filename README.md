@@ -128,6 +128,8 @@ v1.0
 
 ![Dashboard](assets/Business-research-os-v1.0.png)
 
+![Dashboard](assets/graphs.png)
+
 Current workflow
 
 ```
