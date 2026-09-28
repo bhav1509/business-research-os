@@ -124,6 +124,10 @@ streamlit run dashboard.py
 
 v1.0
 
+# Business Research OS
+
+![Dashboard](assets/Business-research-os-v1.0.png)
+
 Current workflow
 
 ```
