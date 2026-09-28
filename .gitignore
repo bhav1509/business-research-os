@@ -1,22 +1,55 @@
-# Virtual environment
-.venv/
-
-# Python cache
+# ----------------------------
+# Python
+# ----------------------------
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-# Environment variables
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# ----------------------------
+# Environment Variables
+# ----------------------------
 .env
 
-# SQLite database
-business_research.db
+# ----------------------------
+# Streamlit
+# ----------------------------
+.streamlit/
 
-# Cached research
+# ----------------------------
+# SQLite
+# ----------------------------
+*.db
+*.sqlite3
+
+# ----------------------------
+# Cache Files
+# ----------------------------
 result.json
 analysis.json
 
-# Streamlit cache
-.streamlit/
+# ----------------------------
+# IDE
+# ----------------------------
+.vscode/
+.idea/
 
+# ----------------------------
 # macOS
+# ----------------------------
 .DS_Store
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# Temporary
+# ----------------------------
+tmp/
+temp/

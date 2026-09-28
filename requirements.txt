@@ -1,0 +1,17 @@
+streamlit
+
+plotly
+
+langgraph
+
+langchain
+
+langchain-core
+
+langchain-groq
+
+langchain-tavily
+
+python-dotenv
+
+pydantic
